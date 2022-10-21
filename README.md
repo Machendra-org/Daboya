@@ -12,14 +12,14 @@ Step-1:
 For Example I take a NGINX is an Web Application
 
 I write a Dockerfile this Web Application using some docker file Instractions like
-FROM
-WORDIR
-USER
-ENV
-RUN
-EXPOSE
-CMD
-ENTRYPOINT
+- FROM
+- WORDIR
+- USER
+- ENV
+- RUN
+- EXPOSE
+- CMD
+- ENTRYPOINT
 
 Step-2:
 -------
