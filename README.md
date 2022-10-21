@@ -44,10 +44,10 @@ Step-4:
 Here I install the Helm Charts and I create helmchart of Daboya and I pull the Image from the ECR and apply image to the Helm chart 
 I Deploy this Web Application using Below Helm Command.
 
-helm create Daboya
-helm ls
-helm repo 
-helm repo add <repoName>
-helm install
-helm upgrade
-helm rollback
+- helm create Daboya
+- helm ls
+- helm repo 
+- helm repo add <repoName>
+- helm install
+- helm upgrade
+- helm rollback
